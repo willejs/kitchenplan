@@ -10,17 +10,14 @@ recipes:
         - applications::grunt-cli
         - applications::bower
         - applications::git-flow
-        - applications::sass
-        - applications::siege
         - applications::nodejs
         - applications::ssh_config
         - dotfiles::vim
-        - applications::composer
     mac_os_x:
         - applications::imageoptim
         - applications::imagealpha
         - applications::svgo
-        - applications::sublime_text_3
+        - applications::sublime_text_2
         - applications::phpstorm
         - applications::codekit
         - applications::espresso
