@@ -8,7 +8,7 @@ recipes:
         - applications::evernote
         - applications::istatmenus4
         - applications::kaleidoscope
-        - applications::omnigraffle
+        #- applications::omnigraffle add this back in once they accept my pull request on cask
         - applications::things
         - applications::tower
         - applications::vlc
