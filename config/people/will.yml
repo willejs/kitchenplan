@@ -23,7 +23,6 @@ recipes:
         - applications::sublime_text_3
         - applications::tunnelblick
         - applications::vagrant
-        - applications::wireshark
         - applications::istatmenus4
         - applications::spotify
         - applications::bartender
